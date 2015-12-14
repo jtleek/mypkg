@@ -6,3 +6,4 @@ Description: What the package does (one paragraph).
 Depends: R (>= 3.2.1)
 License: MIT
 LazyData: true
+Suggests: testthat
